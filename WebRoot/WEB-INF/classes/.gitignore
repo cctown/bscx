@@ -1,0 +1,8 @@
+/applicationContext.xml
+/dao/
+/domain/
+/filter/
+/log4j.properties
+/service/
+/views.properties
+/web/
